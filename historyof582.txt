@@ -1,0 +1,16 @@
+Wykonano przelew na kwotę: 333 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Wykonano przelew na kwotę: 200 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Wykonano przelew na kwotę: 333 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Udzielono kredytu na kwotę: 2000.0
+Udzielono kredytu na kwotę: 1000.0
+Udzielono kredytu na kwotę: 1000.0
+Udzielono kredytu na kwotę: 2000.0
+Pobrano ratę za kredyt w wysokości: 726.6666666666666 zł
+Pobrano ratę za kredyt w wysokości: 267.5 zł
+Pobrano ratę za kredyt w wysokości: 1090.0 zł
+Pobrano ratę za kredyt w wysokości: 726.6666666666666 zł
+Pobrano ratę za kredyt w wysokości: 267.5 zł
+Pobrano ratę za kredyt w wysokości: 726.6666666666666 zł
+Pobrano ratę za kredyt w wysokości: 726.6666666666666 zł
+Zalozono lokate na kwote : 1000.0 zł
+Zakonczono lokate  o kwocie: 1000.0na konto wplynela kwota: 1090.0

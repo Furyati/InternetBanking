@@ -1,0 +1,5 @@
+Wykonano przelew na kwotę: 333 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Wykonano przelew na kwotę: 200 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Wykonano przelew na kwotę: 333 zł, z rachunku o numerze: 582 na rachunek o numerze: 432
+Udzielono kredytu na kwotę: 1000.0 zł
+A deposit has been opened for the amount of : 5000.0 zł
